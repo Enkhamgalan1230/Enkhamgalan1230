@@ -1,4 +1,4 @@
-## Wha gwan, I’m Entwan 👋
+## Wha gwan, I’m Entwan 🇲🇳 👋
 
 <img
   src="./assets/chibi.png"
@@ -7,7 +7,7 @@
   align="left"
 />
 
-I’m a Mongolian Data Scientist and AI engineer based in London, currently working at **PowerServe Global**.
+I’m a Data Scientist and AI engineer based in London, currently working at **PowerServe Global**.
 
 I completed my **BSc (Hons) in Artificial Intelligence** at Buckinghamshire New University and now focus on building practical data and AI solutions.
 
