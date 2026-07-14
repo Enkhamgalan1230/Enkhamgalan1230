@@ -10,6 +10,16 @@
 I’m a Mongolian based in London, currently working at **PowerServe Global** as a junior Data Scientist.
 I completed my **BSc (Hons) in Artificial Intelligence** at Buckinghamshire New University. 
 
+### Currently exploring
+
+• Data quality and validation  
+• Data processing and pipeline design  
+• LLMs and AI agents  
+• Better software engineering practices  
+• Myself and life 🤔 
+
+<br clear="left">
+
 ### What I’m working with
 
 **Languages and analysis**  
@@ -23,8 +33,6 @@ Data pipelines · Validation · Data modelling · Warehouse design · DuckDB · 
 
 **Tools and frameworks**  
 Git · GitHub · Streamlit · FastAPI · Jupyter · VS Code · Graphviz
-
-<br clear="left">
 
 ### Outside of work
 
