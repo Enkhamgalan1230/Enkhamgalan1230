@@ -1,4 +1,4 @@
-## Wha gwan, I’m Entwan 🇲🇳 👋
+## Wha gwan, I’m Entwan👋
 
 <img
   src="./assets/chibi.png"
