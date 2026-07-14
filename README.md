@@ -3,7 +3,7 @@
 <img
   src="./assets/chibi.png"
   alt="Entwan cartoon character"
-  width="250"
+  width="255"
   align="left"
 />
 
