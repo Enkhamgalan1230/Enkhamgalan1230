@@ -1,27 +1,36 @@
+## Wha gwan, I’m Entwan 👋
+
 <table>
   <tr>
-    <td width="190" align="center">
+    <td width="180" align="center">
       <img
-        src="assets/chibi.png"
+        src="assets/entwan-chibi.png"
         alt="Entwan cartoon character"
-        width="160"
+        width="150"
       />
     </td>
 
-    <td valign="top">
+    <td valign="middle">
+      <p>
+        I’m a junior data scientist based in London, currently working at
+        <strong>PowerServe Global</strong>.
+      </p>
 
-## Wha gwan, I’m Entwan 👋
-
-I’m a junior data scientist based in London, currently working at **PowerServe Global**.
-
-I recently completed my **BSc (Hons) in Artificial Intelligence** at Buckinghamshire New University.
+      <p>
+        I recently completed my
+        <strong>BSc (Hons) in Artificial Intelligence</strong>
+        at Buckinghamshire New University.
+      </p>
+    </td>
+  </tr>
+</table>
 
 ### Currently exploring
 
-🧹 Data quality and validation  
-⚙️ Data processing and pipelines  
-🤖 LLMs and AI agents  
-🧠 Myself and life  
+• Data quality and validation
+• Data processing and pipelines
+• LLMs and AI agents
+• Myself and life 🤔
 
 ### Outside of work
 
@@ -30,10 +39,6 @@ You’ll probably find me making sushi, training Muay Thai, or lifting heavy thi
 ### Connect with me
 
 🔗 [LinkedIn](https://linkedin.com/in/entwan)
-
-  </td>
-  </tr>
-</table>
 
 <!--
 **Enkhamgalan1230/Enkhamgalan1230** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
