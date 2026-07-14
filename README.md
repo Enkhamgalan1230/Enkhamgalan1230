@@ -1,16 +1,17 @@
 ## Wha gwan, I’m Entwan 👋
 
-<table>
-<tr>
-<td width="180" align="center" valign="middle">
-<img src="./assets/chibi.png" alt="Entwan cartoon character" width="150">
-</td>
-<td valign="middle">
-<p>I’m a junior data scientist based in London, currently working at <strong>PowerServe Global</strong>.</p>
-<p>I recently completed my <strong>BSc (Hons) in Artificial Intelligence</strong> at Buckinghamshire New University.</p>
-</td>
-</tr>
-</table>
+<img
+  src="./assets/chibi.png"
+  alt="Entwan cartoon character"
+  width="150"
+  align="left"
+/>
+
+I’m a junior data scientist based in London, currently working at **PowerServe Global**.
+
+I recently completed my **BSc (Hons) in Artificial Intelligence** at Buckinghamshire New University.
+
+<br clear="left">
 
 ### Currently exploring
 
