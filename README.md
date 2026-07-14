@@ -1,16 +1,21 @@
-## Wha gwan, I’m Entwan 🇲🇳🇬🇧👋
+## Wha gwan, I’m Entwan 🇲🇳 🇬🇧👋
 
-I’m a junior data scientist based in london, currently working at PowerServe Global.
+📍 London, UK
+🎓 BSc Hons in AI 
 
-currently exploring:
+I’m a junior data scientist based in london, currently working at **PowerServe Global**.
+
+## Currently exploring:
 
 * Data Quality, Processing, Pipelines, LLM, AI Agents etc
 * Myself and life 🤔
 
-Outside of work, I do chef, Muay Thai and gym.
+## Outside of work
 
-📍 London, UK
-🎓 BSc Hons in AI 
+I do sushi chef, Muay Thai and gym.
+
+## Connect with me here:
+
 🔗 [linkedin](https://linkedin.com/in/entwan)
 
 
