@@ -3,7 +3,7 @@
 <img
   src="./assets/chibi.png"
   alt="Entwan cartoon character"
-  width="255"
+  width="250"
   align="left"
 />
 
@@ -15,8 +15,7 @@ I completed my **BSc (Hons) in Artificial Intelligence** at Buckinghamshire New 
 
 🍂 Data quality and validation  
 🍃 Data processing and pipeline design  
-🍁 LLMs and AI agents  
-🌿 Better software engineering practices  
+🍁 LLMs and AI agents, etc  
 🍀 Myself and life  
 
 <br clear="left">
