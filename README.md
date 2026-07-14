@@ -22,20 +22,16 @@ I completed my **BSc (Hons) in Artificial Intelligence** at Buckinghamshire New 
 
 ## Tech stack
 
-### Languages and analysis
-
+##### Languages and analysis
 `Python` · `SQL` · `pandas` · `NumPy`
 
-### Machine learning and AI
-
+##### Machine learning and AI
 `scikit-learn` · `Forecasting` · `Recommendation systems` · `NLP` · `Embeddings` · `Semantic search` · `LLMs` · `AI agents`
 
-### Data engineering and databases
-
+##### Data engineering and databases
 `Data pipelines` · `Validation` · `Data modelling` · `Warehouse design` · `DuckDB` · `Supabase` · `Microsoft Fabric`
 
-### Tools and frameworks
-
+##### Tools and frameworks
 `Git` · `GitHub` · `Streamlit` · `FastAPI` · `Jupyter` · `VS Code` · `Graphviz`
 
 ## Outside of work
