@@ -3,13 +3,13 @@
 <img
   src="./assets/chibi.png"
   alt="Entwan cartoon character"
-  width="150"
+  width="250"
   align="left"
 />
 
-I’m a junior data scientist based in London, currently working at **PowerServe Global**.
+I’m a Mongolian based in London, currently working at **PowerServe Global** as a junior Data Scientist.
+I completed my **BSc (Hons) in Artificial Intelligence** at Buckinghamshire New University. 
 
-I recently completed my **BSc (Hons) in Artificial Intelligence** at Buckinghamshire New University.
 
 <br clear="left">
 
