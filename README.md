@@ -16,7 +16,7 @@ I completed my **BSc (Hons) in Artificial Intelligence** at Buckinghamshire New 
 🍂 Data quality and validation  
 🍃 Data processing and pipeline design  
 🍁 LLMs and AI agents, etc  
-🍀 Myself and life  
+🍀 Myself and life haha  
 
 <br clear="left">
 
@@ -36,7 +36,7 @@ I completed my **BSc (Hons) in Artificial Intelligence** at Buckinghamshire New 
 
 ## Outside of work
 
-🌱 When I’m not working, you’ll probably find me working as sushi chef, training Muay Thai, or lifting odd things at the gym.
+🌱 I don't just work, work and work, you know? I do sushi chef also I rlly like to consider myself a Nak Muay, a hooper and a gym rat.
 
 ## Connect with me
 
