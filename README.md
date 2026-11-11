@@ -14,4 +14,4 @@ I completed my **BSc (Hons) in Artificial Intelligence** at Buckinghamshire New 
 
 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Entwan-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/entwan) [![Portfolio](https://img.shields.io/badge/Portfolio-Entwan-0A66C2?logo=portfolio&logoColor=green)](https://entwan.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Entwan-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/entwan) [![Portfolio](https://img.shields.io/badge/Portfolio-Entwan-0A66C2?logo=portfolio&logoColor=blue)](https://entwan.dev/)
