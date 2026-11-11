@@ -11,8 +11,7 @@ I’m a Data Scientist and AI engineer based in London, currently working at **P
 
 I completed my **BSc (Hons) in Artificial Intelligence** at Buckinghamshire New University and now focus on building practical data and AI solutions.
 
+
 ## Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Entwan-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/entwan)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Entwan-0A66C2?logo=portfolio&logoColor=white)]([https://linkedin.com/in/entwan](https://entwan.dev/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Entwan-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/entwan) [![Portfolio](https://img.shields.io/badge/Portfolio-Entwan-0A66C2?logo=portfolio&logoColor=white)]([https://linkedin.com/in/entwan](https://entwan.dev/))
